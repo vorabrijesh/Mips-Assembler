@@ -1,0 +1,30 @@
+ 
+------new run attempt for file wrong.s--------
+syntax error at line 5: word values are not integer
+syntax error at line 8 : wrong data type
+syntax error at line 9
+syntax error at line 10
+syntax error at line 19 : can't put data in text segment
+syntax error at line 14: no label exists with this name
+syntax error at line 16
+syntax error at line 22
+syntax error at line 23
+syntax error at line 24
+syntax error at line 34: not valid immediate value
+Out of Range error : immediate value out of range 0..31 at line 35
+syntax error at line 36: not valid immediate value
+syntax error at line 39
+syntax error at line 40
+syntax error at line 42: not valid register
+syntax error at line 49: not valid immediate value
+syntax error at line 50
+Out of Range error : immediate value out of range 0..65535 at line 52
+syntax error at line 54: no label exists with this name
+syntax error at line 60
+syntax error at line 62
+syntax error at line 64
+syntax error at line 65: no label exists with this name
+syntax error at line 68: not valid register
+ 
+------new run attempt for file correct.s--------
+no error
