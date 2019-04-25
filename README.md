@@ -60,4 +60,4 @@ The assembler supports the following 46 instruction set:
 	$ g++ assembler.cpp -o assembler
 
     After compiling, run:
-    $ ./assembler test.asm test.txt log.txt
+    $ ./assembler test.asm test.o log.txt
